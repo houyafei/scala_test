@@ -5,9 +5,7 @@ class Constructor (var age:Int) {
   def this(name:String,age:Int){
     this(age)
   }
-
 }
-
 
 object Test{
   def main(args: Array[String]): Unit = {
